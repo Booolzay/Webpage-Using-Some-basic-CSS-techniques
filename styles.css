@@ -1,0 +1,100 @@
+@font-face{
+    font-family: nunitoSans;
+    src: url(assets/NunitoSans-Regular.ttf);
+    
+    
+}
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body{
+    display: block;
+    margin: 0 100px;
+}
+
+header{
+    font-family: nunitoSans;
+    font-weight: 700;
+    font-size: 26px;
+    
+    
+}
+
+#colors{
+    border: 2px solid gray;
+    width: 100%;
+    padding: 10px;
+    font-family: nunitoSans;
+    font-weight: 100;
+    font-size: 18px;
+    
+}
+.grid-item1{
+    display: inline-block;
+    width: 22%;
+    height: 70px;
+    padding: 2% 5%;
+    margin: 30px 0;
+    background-color: #f58982;
+    color: white;
+    
+    
+}
+.grid-item2{
+    display: inline-block;
+    width: 22%;
+    height: 70px;
+    padding: 2% 5%;
+    margin: 30px 0;
+    background-color: #61fffc;
+    
+}
+.grid-item3{
+    display: inline-block;
+    width: 22%;
+    height: 70px;
+    padding: 2% 5%;
+    margin: 30px 0;
+    background-color: #ff3061;
+    color: white;
+    
+}
+.grid-item4{
+    display: inline-block;
+    width: 22%;
+    height: 70px;
+    padding: 2% 5%;
+    margin: 30px 0;
+    background-color: #dbff38;
+    
+}
+
+#fonts{
+    border: 2px solid gray;
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    font-family: nunitoSans;
+    font-weight: 500;
+    font-size: 18px;
+}
+.sec2p1{
+    display: inline-block;
+    font-family: 'Source Code Pro', monospace;
+}
+.sec2p2{
+    display: inline-block;
+    font-family: nunitoSans, monospace;
+}
+.sec2p3{
+    display: inline-block;
+    font-family: 'Poppins', sans-serif;
+}
+
+#sec3{
+    border: 2px solid gray;
+    width: 100%;
+    margin: 10px 0;
+    padding: 1%;
+    font-family:  nunitoSans;
+}
